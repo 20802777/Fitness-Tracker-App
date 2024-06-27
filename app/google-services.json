@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49917675560",
+    "project_id": "fir-calendar-app-556da",
+    "storage_bucket": "fir-calendar-app-556da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49917675560:android:35c845f97ec32222de0d1d",
+        "android_client_info": {
+          "package_name": "com.example.yogaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK4GS6U-8Hs_PK5Sux83aBmFlPtIocZUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
